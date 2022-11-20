@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chulakshi wijesinghe</h1>
+<h1 align="center">Hi 👋  I'm Chulakshi wijesinghe</h1>
 <h3 align="center">Undergraduate at Sri Lanka Technological Campus</h3>
 
 
