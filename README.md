@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chulakshi wijesinghe</h1>
 <h3 align="center">Undergraduate at Sri Lanka Technological Campus</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
