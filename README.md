@@ -1,6 +1,8 @@
+<img src = "https://c4.wallpaperflare.com/wallpaper/521/750/551/geometry-cyberspace-lines-abstract-wallpaper-preview.jpg" alt = "" width = "1000" height = "400">
 <h1 align="center">Hi 👋, I'm Chulakshi wijesinghe</h1>
 <h3 align="center">Undergraduate at Sri Lanka Technological Campus</h3>
-<img src = "https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1_still_2x.gif?compress=1&resize=400x300" alt = "">
+
+<img  width = "300" heigth = "300" src = "https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt = "">
 <p align="left">
 </p>
 
