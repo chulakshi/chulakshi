@@ -1,4 +1,4 @@
-<img src = "https://c4.wallpaperflare.com/wallpaper/521/750/551/geometry-cyberspace-lines-abstract-wallpaper-preview.jpg" alt = "" width = "1000" height = "400">
+<img src = "https://c4.wallpaperflare.com/wallpaper/521/750/551/geometry-cyberspace-lines-abstract-wallpaper-preview.jpg" alt = "" width = "1000" height = "200">
 <h1 align="center">Hi 👋, I'm Chulakshi wijesinghe</h1>
 <h3 align="center">Undergraduate at Sri Lanka Technological Campus</h3>
 
