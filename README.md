@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Chulakshi Wijesinghe</h1>
 <h3 align="center">Undergraduate at Sri Lanka Technological Campus</h3>
 
-<img  width = "300" heigth = "300" src = "https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt = "">
+<img  width = "300" heigth = "300" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flotties%2Ffemale-web-developer&psig=AOvVaw061o80IB79BuPpK46Xcs4J&ust=1696053504332000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiJmumRz4EDFQAAAAAdAAAAABAE" alt = "">
 <p align="rigth">
 </p>
 
